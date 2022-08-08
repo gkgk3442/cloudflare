@@ -9,7 +9,7 @@
 ```bash
 crontab -e
 
-* * * * * /bin/bash ~/ddns-cludflare
+* * * * * /bin/bash ~/ddns-cludflare.sh
 ```
 
 ---
